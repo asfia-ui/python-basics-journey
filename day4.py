@@ -19,3 +19,15 @@ elif marks > 40:
     print("Pass")
 else:
     print("Fail")    
+
+#example 2
+temperature = 35
+
+if temperature > 40:
+    print("Too hot! Stay indoors 🥵")
+elif temperature >= 30:
+    print("Warm weather 🌞")
+elif temperature >= 20:
+    print("Pleasant weather 😊")
+else:
+    print("Cold weather ❄️")  
